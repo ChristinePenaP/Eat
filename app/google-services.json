@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302442592096",
+    "firebase_url": "https://appeatit-7091f.firebaseio.com",
+    "project_id": "appeatit-7091f",
+    "storage_bucket": "appeatit-7091f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302442592096:android:2b0f29442cfaf6c2",
+        "android_client_info": {
+          "package_name": "appeatit.appeatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302442592096-kbk2p7gaoaq6kfl7qhj6s7c1ffr618i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appeatit.appeatit",
+            "certificate_hash": "1ddc1f96832b45a3d5718de7276193acc61b23ef"
+          }
+        },
+        {
+          "client_id": "302442592096-h814h34gfghf0orqhtqkq92qvkvp84cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABe5ZJ8AjGHIgCG3u-fT1Vihi6JFh-ryg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302442592096-h814h34gfghf0orqhtqkq92qvkvp84cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
